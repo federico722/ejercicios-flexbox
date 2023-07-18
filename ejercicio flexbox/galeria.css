@@ -1,0 +1,21 @@
+body{
+    background-color: beige;
+}
+
+
+img{
+    height: 300px;
+    width: 300px;
+    padding: 20px;
+}
+
+.flex-container{
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    width: 80%;
+    height: 1000px;
+
+}
+

@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.titulo{
+    text-align: center;
+    padding: 30px;
+    background-color: lightcoral;
+    color: aliceblue;
+    font-size: 28px;
+}
+
+.s{
+    padding: 20px;
+    font-size: 14px;
+}
+
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgb(17, 204, 132);
+    color: aliceblue;
+}
+
+p{
+    padding: 20px 30px 20px 20px;
+    font-size: 20px;
+}
+
+div{
+    display: flex;
+    flex-direction: row;
+    margin: 0px 0px 0px 990px;
+}
+
+.imagen{
+    border:1px solid #ccc;
+    height: 400px;
+    width:  400px;
+    text-align: center;
+    background-color: #ccc;
+}
+
+.flex-container-2{
+    padding: 20px;
+}
+
+.texto{
+    margin:0px;
+    height: 80px;
+    width: 400px;
+}
+
+.imagen-1{
+    border:1px solid #ccc;
+    height: 200px;
+    width:  400px;
+    text-align: center;
+    background-color: #ccc;
+}
+
+
+.primera{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(235, 235, 235);
+    float: left;
+    flex-wrap: 1;
+    
+}
+
+.segunda{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    flex-grow: 2;
+}
+
+.otra{
+    padding: 20px 20px 20px 20px;
+    font-size: 19px;
+}
+
+.texto-2{
+    padding: 20px 20px 20px 0px;
+}
+
+.imagen-3{
+    padding: 20px;
+}
+
+.cambio{
+    height: 280px;
+    width:  668px;
+}
+
+.contenido{
+    margin: 0px;
+}
+
+.subtitulo{
+    padding: 20px;
+}
+
+.texto-5{
+    padding: 20px;
+}
+
+footer{
+    padding: 30px;
+    text-align: center;
+    background-color: #ccc;
+    font-weight: bold;
+}
+
